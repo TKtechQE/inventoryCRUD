@@ -29,3 +29,9 @@
     <router-view/>
   </div>
 </template>
+
+<script>
+export default {
+}
+console.log("App Container bound and loaded.");
+</script>
